@@ -1,0 +1,2 @@
+cmdhistory=["(ns chess.core)" "(foo as->)" "(foo 2)" "(ns chess.core)" "(foo 2)" "(ns chess.core\\n  )" "(foo 9)" "(def db {\:classname \\"com.mysql.jdbc.Driver\\" \\r\\n                \:subprotocol \\"mysql\\" \\r\\n                \:subname \\"//localhost\:3306/nmr\\" \\r\\n                \:user \\"root\\"})"]
+eclipse.preferences.version=1

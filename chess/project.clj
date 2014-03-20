@@ -3,4 +3,7 @@
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
-  :dependencies [[org.clojure/clojure "1.5.1"]])
+  :dependencies [[org.clojure/clojure "1.5.1"]
+                 [org.clojure/clojure-contrib "1.2.0"]   ;; for clojure.contrib.sql
+                 [org.clojure/java.jdbc "0.0.6"]         ;; jdbc 
+                 [mysql/mysql-connector-java "5.1.6"]])
