@@ -1,4 +1,4 @@
 Chess
 =====
 
-Simple chess
+Simple chess opla
